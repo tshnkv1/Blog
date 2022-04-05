@@ -1,0 +1,1 @@
+export const API_BLOG: string = 'https://jsonplaceholder.typicode.com';

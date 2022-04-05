@@ -1,0 +1,1 @@
+export const defaultPostsLimit: number = 5;
